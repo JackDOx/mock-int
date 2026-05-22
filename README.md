@@ -2,7 +2,7 @@
 
 # Limit Order Book Matching Engine
 
-  **Time:** 60–90 min. Pair programming. No finance knowledge needed.
+  **Time:** 40 min. Pair programming. No finance knowledge needed.
 
   ---
   
